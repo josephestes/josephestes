@@ -13,9 +13,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/josephestes/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/josephestes/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/josephestes/Key-Logger-With-Email)
+  - [Console Apps](https://github.com/josephestes/Console-Apps)
+  - [Windows Forms](https://github.com/josephestes/)
 
 <h2> 🤳 Connect with me:</h2>
 
