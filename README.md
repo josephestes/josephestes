@@ -15,7 +15,8 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Console Apps](https://github.com/josephestes/Console-Apps)
   - [Windows Forms](https://github.com/josephestes/Windows-Forms)
-- <b><a href="https://github.com/josephestes/Database-Project">👨‍💻 Database Project (Microsoft Access)</a></b>
+- <b>Database Management (Microsoft Access)</b>
+  - [Database Project](https://github.com/josephestes/Database-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
