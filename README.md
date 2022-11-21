@@ -27,7 +27,7 @@
 
 ### 📊 Stats
 
-![Josephs's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephestes&show_icons=true&theme=transparent)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephestes&show_icons=true&theme=transparent)
 
 #
 
