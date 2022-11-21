@@ -25,6 +25,13 @@
   - [Database Project](https://github.com/josephestes/Database-Project)
 
 
+### 📊 Stats
+
+![Josephs's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephestes&show_icons=true&theme=transparent)
+
+#
+
+
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -38,10 +45,6 @@
 <br />
 
 <!--
-
-
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephestes">Programmer</a>, <a href="https://www.linkedin.com/in/joseph-estes/">Cybersecurity Professional</a>, <a href="https://">Photographer</a></h1>
-
 
 **josephestes/josephestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
