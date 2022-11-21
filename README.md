@@ -1,24 +1,33 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephestes">Programmer</a>, <a href="https://www.linkedin.com/in/joseph-estes/">Cybersecurity Professional</a>, <a href="https://">Photographer</a></h1>
+# ✋ Hi, I'm Joseph!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+**`Cybersecurity Professional (Photographer & Programmer)`**
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+## 👨‍💻 Cybersecurity Projects:
+
+- **Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
   - [Image Analysis Middleware](https://github.com/josephestes/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- **PowerShell**
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/josephestes/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/josephestes/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/josephestes/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/josephestes/PowerShell-Integrity-FIM)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects:
 
-- <b>C# (.NET Desktop Applications)</b>
+- **C# (.NET Desktop Applications)**
   - [Console Apps](https://github.com/josephestes/Console-Apps)
   - [Windows Forms](https://github.com/josephestes/Windows-Forms)
-- <b>Database Management (Microsoft Access)</b>
+- **Database Management (Microsoft Access)**
   - [Database Project](https://github.com/josephestes/Database-Project)
 
-### 🧰 Languages and Tools
+
+## 🤳 Connect with me:
+
+<a href="https://www.instagram.com/jyosephf/"><img align="left" alt="JosephEstes" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
+<a href="https://linkedin.com/in/joseph-estes"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -30,15 +39,12 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JosephEstes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JosephEstes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/jyosephf/
-[linkedin]: https://linkedin.com/in/joseph-estes
-
 <!--
+
+
+<h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephestes">Programmer</a>, <a href="https://www.linkedin.com/in/joseph-estes/">Cybersecurity Professional</a>, <a href="https://">Photographer</a></h1>
+
+
 **josephestes/josephestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
