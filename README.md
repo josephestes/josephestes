@@ -25,7 +25,7 @@
   - [Database Project](https://github.com/josephestes/Database-Project)
 
 
-### 📊 Stats
+## 📊 Stats
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephestes&show_icons=true&theme=transparent)
 
