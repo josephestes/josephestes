@@ -1,4 +1,4 @@
-# ✋ Hi, I'm Joseph!
+# 👋 Hi, I'm Joseph!
 
 **`Cybersecurity Professional (Photographer & Programmer)`**
 
