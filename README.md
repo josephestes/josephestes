@@ -2,6 +2,10 @@
 
 **`Cybersecurity Professional (Photographer & Programmer)`**
 
+<a href="https://www.instagram.com/jyosephf/"><img align="left" alt="JosephEstes" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
+<a href="https://linkedin.com/in/joseph-estes"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+
+
 ## 👨‍💻 Cybersecurity Projects:
 
 - **Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
@@ -19,12 +23,6 @@
   - [Windows Forms](https://github.com/josephestes/Windows-Forms)
 - **Database Management (Microsoft Access)**
   - [Database Project](https://github.com/josephestes/Database-Project)
-
-
-## 🤳 Connect with me:
-
-<a href="https://www.instagram.com/jyosephf/"><img align="left" alt="JosephEstes" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
-<a href="https://linkedin.com/in/joseph-estes"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 
 
 ## 🧰 Languages and Tools
