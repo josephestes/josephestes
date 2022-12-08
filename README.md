@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph!
 
-**`Cybersecurity Professional (Photographer & Programmer)`**
+**`Cybersecurity and Software Development Professional`**
 
 <a href="https://www.instagram.com/jyosephf/"><img align="left" alt="JosephEstes" title="Instagram" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
 <a href="https://linkedin.com/in/joseph-estes"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
@@ -8,13 +8,10 @@
 
 ## 👨‍💻 Cybersecurity Projects:
 
-- **Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
-  - [Image Analysis Middleware](https://github.com/josephestes/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- **PowerShell**
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/josephestes/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/josephestes/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/josephestes/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/josephestes/PowerShell-Integrity-FIM)
+- **Penetration Testing**
+  - [Red Team Engagements](https://github.com/josephestes/Red-Team-Engagements)
+- **Incident Response**
+  - [Forensic Analysis](https://github.com/josephestes/Forensic-Analysis)
 
 ## 👨‍💻 Software Development Projects:
 
