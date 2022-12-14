@@ -2,20 +2,24 @@
 
 **`Cybersecurity and Software Development Professional`**
 
-<a href="https://www.instagram.com/jyosephf/"><img align="left" alt="JosephEstes" title="Instagram" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
+<a href="https://josephestes.github.io/"><img align="left" alt="Portfolio" title="Instagram" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a> 
 <a href="https://linkedin.com/in/joseph-estes"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
 
 ## 👨‍💻 Cybersecurity Projects:
 
 - **Penetration Testing**
-  - [Red Team Engagements](https://github.com/josephestes/Red-Team-Engagements)
+  - [DOS Tools](https://josephestes.github.io/DosTools)
+  - [Web Application Security Threats](https://josephestes.github.io/WebAppSecThreats)
 - **Incident Response**
-  - [Forensic Analysis](https://github.com/josephestes/Forensic-Analysis)
+  - [Disaster Recovery](https://josephestes.github.io/DisasterRecovery)
+  - [Social Engineering](https://josephestes.github.io/SocialEngineering)
+  - [Malware Report](https://josephestes.github.io/MalwareReport)
+  - [Network Encryption](https://josephestes.github.io/NetworkEncryption)
 
 ## 👨‍💻 Software Development Projects:
 
-- **C# (.NET Desktop Applications)**
+- **C# (.NET Applications)**
   - [Console Apps](https://github.com/josephestes/Console-Apps)
   - [Windows Forms](https://github.com/josephestes/Windows-Forms)
 - **Database Management (Microsoft Access)**
