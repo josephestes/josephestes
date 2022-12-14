@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/joseph-estes"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
 
-## 👨‍💻 Cybersecurity Projects:
+## 🔐 Cybersecurity Projects:
 
 - **Penetration Testing**
   - [DOS Tools](https://josephestes.github.io/DosTools)
