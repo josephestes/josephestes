@@ -5,7 +5,6 @@
 <a href="https://josephestes.github.io/"><img align="left" alt="Portfolio" title="Instagram" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a> 
 <a href="https://linkedin.com/in/joseph-estes/"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
-
 ## 🔐 Cybersecurity Projects:
 
 - **Penetration Testing**
@@ -25,12 +24,6 @@
 - **Database Management (Microsoft Access)**
   - [Database Project](https://github.com/josephestes/Database-Project)
 
-
-## 📊 Stats
-
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephestes&show_icons=true&theme=transparent)
-
-
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -42,6 +35,17 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+###
+
+<details>
+ <summary>More</summary>
+
+## 📊 Stats
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephestes&show_icons=true&theme=transparent)
+  
+</details>
 
 <!--
 
