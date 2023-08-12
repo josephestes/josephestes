@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph!
 
-**`Cybersecurity Enthusiast and Software Developer`**
+**`InfoSec Pro and Software Dev`**
 
 <a href="https://josephestes.github.io/"><img align="left" alt="Portfolio" title="Instagram" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a> 
 <a href="https://linkedin.com/in/joseph-estes/"><img aling="left" alt="JosephEstes" title="LinkedIn" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
